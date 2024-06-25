@@ -1,0 +1,4 @@
+application/config/*
+application/logs/*
+application/userguide/*
+application/cache/*
